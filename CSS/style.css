@@ -224,7 +224,7 @@ a {
 }
 /* Button-list */
 
-/* Card-lit */
+/* Card-list */
 .card-title {
   font-weight: 700;
   font-size: 18px;
@@ -239,4 +239,4 @@ a {
   letter-spacing: 0.03em;
   color: var(--title-text-color);
 }
-/* Card-lit */
+/* Card-list */
